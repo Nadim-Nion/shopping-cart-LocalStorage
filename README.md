@@ -33,6 +33,8 @@ Explore the repository's codebase, dive into the elegant implementation of the s
 
 GitHub Pages: https://nadim-nion.github.io/shopping-cart-LocalStorage/ 
 
+Netlify: https://shopping-cart-localstorage.netlify.app/ 
+
 
 ## Deployment
 
