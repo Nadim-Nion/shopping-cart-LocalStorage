@@ -31,7 +31,9 @@ Explore the repository's codebase, dive into the elegant implementation of the s
 
 ## Live Website
 
-GitHub Pages: 
+GitHub Pages: https://nadim-nion.github.io/shopping-cart-LocalStorage/ 
+
+
 ## Deployment
 
 To deploy this project run
